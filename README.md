@@ -1,2 +1,2 @@
 # movieScriptAnalysis
-Analysis of movie scripts, including network analysis, sentiment tracking, and auto-generated scripts.
+Analysis of movie scripts, including network analysis, sentiment tracking, and auto-generated movie scripts.
